@@ -1,0 +1,1 @@
+Codigo con bootstrap con diseño responsive vista mobile y desktop
